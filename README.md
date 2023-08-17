@@ -15,7 +15,7 @@ This repository contains code for a Facial Emotion Recognition project. The goal
 
 In this project, we utilize a convolutional neural network (CNN) architecture to perform facial emotion recognition. The code is implemented using PyTorch and includes the following components:
 
-- Loading a hdb5 file containing image data and labels
+- Loading a file containing image data and labels
 - Data preprocessing and transformation
 - Creating custom datasets and data loaders
 - Model architecture definition
