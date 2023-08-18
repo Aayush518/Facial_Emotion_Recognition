@@ -35,8 +35,7 @@ The dataset used for this project is FER2013, which contains facial expression i
 
 2. Install the required dependencies:
    ```bash
-   pip install torch pandas scikit-learn torchvision numpy matplotlib Pillow torchsummary tqdm
-   
+   pip install torch pandas scikit-learn torchvision numpy matplotlib Pillow torchsummary tqdm   
    ```
 
 ## Usage
